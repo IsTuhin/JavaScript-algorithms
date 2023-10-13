@@ -6,7 +6,7 @@
 A minimal approach to make a list of awesome algorithms solved in saveral ways with **JavaScript** :rocket:
 
 ## Development Mode:
-It is quite simple to test any of the `Algorithm`.
+It is quite simple to test any of the `Algorithm`
 
 __🎉 Clone the repo & Start Hacking 😎__ 
 
